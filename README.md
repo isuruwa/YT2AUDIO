@@ -1,7 +1,17 @@
-YOUTUBE AUDIO DOWNLOADER
-========================
+# YT 2 AUDIO
 
-![YT2AUDIO](https://github.com/isuruwa/YT2AUDIO/assets/72663288/8cd6203a-6958-4b07-8159-bb6dae8f1e35)
+<p align="right">
+  <img src="https://img.shields.io/pypi/l/yt2audio"/>
+  <img src="https://img.shields.io/pypi/pyversions/yt2audio"/>
+  <img src="https://img.shields.io/pypi/wheel/yt2audio"/>
+  <img src="https://img.shields.io/pypi/v/yt2audio"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/isuruwa/YT2AUDIO/blob/main/docs/images/YT2AUDIO.png">
+</p>
   
 This program allows you to download high-quality audio from YouTube and YouTube Music.
  
